@@ -50,6 +50,8 @@
 
     <properties>
         <project.build.targetJdk>17</project.build.targetJdk>
+        <maven.compiler.target>17.0.6</maven.compiler.target>
+        <maven.compiler.source>17.0.6</maven.compiler.source>
         <air.java.version>17.0.6</air.java.version>
 
         <air.check.skip-extended>true</air.check.skip-extended>
