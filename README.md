@@ -1,6 +1,6 @@
 trino-rest
 ==========
-
+   
 This is a [Trino](http://trino.io/) connector to access RESTful APIs. Please keep in mind that this is not production ready and it was created for tests.
 
 # Quick Start
